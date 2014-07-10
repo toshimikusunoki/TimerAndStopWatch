@@ -18,7 +18,6 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    // 2回目のテストコミット
 }
 
 - (void)didReceiveMemoryWarning
